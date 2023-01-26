@@ -1,0 +1,13 @@
+{
+	"file": "https://raw.githubusercontent.com/kljbdvpb/Diss/main/Schagen_Tracks_Binary.csv",
+	"name": "DJ Playlist Tobi Schagen TRACKS",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Song" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 10  }
+	]
+}

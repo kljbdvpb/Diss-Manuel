@@ -1,0 +1,13 @@
+{
+	"file": "https://github.com/kljbdvpb/Diss/blob/main/Fleckenstein_Tracks_Binary.csv",
+	"name": "DJ Playlist Fleckenstein TRACKS",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Song" },
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 8  }
+	]
+}

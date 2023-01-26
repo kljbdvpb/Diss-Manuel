@@ -1,0 +1,13 @@
+{
+	"file": "https://raw.githubusercontent.com/kljbdvpb/Diss/main/Hagehülsmann_Interpret_Binary.csv",
+	"name": "DJ Playlist Hagehülsmann INTERPRET",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Interpret" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 4  }
+	]
+}
