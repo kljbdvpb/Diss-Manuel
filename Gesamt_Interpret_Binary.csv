@@ -22,28 +22,29 @@ FETTES BROT;1;1;1;1;1
 EIFFEL 65;1;1;1;1;1
 Ed Sheeran;1;1;1;1;1
 Dua Lipa;1;1;1;1;1
-Deichkind;1;1;1;1;1
 Coldplay;1;1;1;1;1
 Bruno Mars;1;1;1;1;1
 Backstreet Boys;1;1;1;1;1
 AVICII;1;1;1;1;1
 Andreas Gabalier;1;1;1;1;1
+ABBA;1;1;1;1;1
+SNAP!;1;1;1;1;1
+Earth, Wind & Fire;1;1;1;1;1
+DON OMAR;1;1;1;1;1
+DR. ALBAN;1;1;1;1;1
+Deichkind;1;1;1;1;1
 Andreas Bourani;1;1;1;1;1
 A-HA;1;1;1;1;1
 ACDC;1;1;1;1;1
-ABBA;1;1;1;1;1
 Whitney Houston;1;0;1;1;1
 USHER;0;1;1;1;1
 Udo Jürgens;1;1;1;1;0
 THE KILLERS;0;1;1;1;1
-The BLACK EYED PEAS;1;0;1;1;1
 Stevie Wonder;1;0;1;1;1
 Stereoact;1;1;0;1;1
 Sportfreunde Stiller;1;1;1;1;0
 SPIDER MURPHY GANG;1;1;1;1;0
-Specktakel;1;1;0;1;1
 Snoop Dogg;1;0;1;1;1
-SNAP!;0;1;1;1;1
 Sigala;1;0;1;1;1
 SHOUSE;0;1;1;1;1
 SAFRI DUO;1;1;0;1;1
@@ -82,40 +83,38 @@ Farruko;1;0;1;1;1
 Falco;1;0;1;1;1
 Faithless;1;0;1;1;1
 Elton John;1;1;1;1;0
-Earth, Wind & Fire;1;0;1;1;1
-DON OMAR;0;1;1;1;1
-Dj Ötzi;1;1;0;1;1
 DIE TOTEN HOSEN;1;1;1;1;0
-Die Fantastischen Vier;1;0;1;1;1
-DIE ÄRZTE;1;1;0;1;1
-DEPECHE MODE;1;0;1;1;1
 DAVID GUETTA;0;1;1;1;1
 DAFT PUNK;0;1;1;1;1
 Daddy Yankee;1;0;1;1;1
-CULTURE BEAT;1;1;1;1;0
 Culcha Candela;1;1;1;1;0
 Chubby Checker;1;0;1;1;1
 Chaka Khan;1;1;1;0;1
 Calvin Harris;1;0;1;1;1
 Britney Spears;1;0;1;1;1
-BON JOVI;1;1;1;1;0
 Bob Marley;1;0;1;1;1
 Bee Gees;1;0;1;1;1
-Barry White;1;1;1;1;0
 Anna-Maria Zimmermann;1;1;0;1;1
 ALVARO SOLER;0;1;1;1;1
-Almklausi;1;1;0;1;1
 257ers;1;1;1;0;1
+The BLACK EYED PEAS;1;0;1;1;1
+Specktakel;1;0;0;1;1
+Dj Ötzi;1;1;0;1;1
+Die Fantastischen Vier;1;0;1;1;1
+DIE ÄRZTE;1;1;0;1;1
+DEPECHE MODE;1;0;1;1;1
+CULTURE BEAT;1;1;1;1;0
+BON JOVI;1;1;1;1;0
+Barry White;1;1;1;1;0
+Almklausi;1;1;0;1;1
 Wolfgang Petry;1;1;0;0;1
 Will Smith;0;0;1;1;1
-WHIGFIELD;1;1;0;0;1
 WHEATUS;0;1;1;1;0
 WALK THE MOON;0;1;1;0;1
 VILLAGE PEOPLE;1;0;1;1;0
 Vicky Leandros;1;0;1;1;0
 Tyga;0;0;1;1;1
 THE WEATHER GIRLS;0;1;0;1;1
-The Police;1;0;1;1;0
 THE POINTER SISTERS;1;0;1;0;1
 TALKING HEADS;0;1;1;1;0
 Summer Cem;1;0;1;0;1
@@ -179,17 +178,13 @@ GLASPERLENSPIEL;1;1;0;0;1
 Gayle;0;0;1;1;1
 Frankie Goes To Hollywood;1;0;1;1;0
 FRANK SINATRA;0;1;1;1;0
-FLEETWOOD MAC;0;1;1;1;0
-Felix Jaehn;0;0;1;1;1
 Fatman Scoop;1;0;1;0;1
 Eyelar;1;1;0;0;1
 EURYTHMICS;1;0;1;1;0
 Enrique Iglesias;1;1;1;0;0
 Eminem;0;0;1;1;1
 El Profesor;1;0;1;1;0
-DR. ALBAN;1;0;1;1;0
 Donna Summer;1;0;1;1;0
-DJ Robin;1;0;0;1;1
 DJ Bobo;1;1;0;0;1
 Die Flippers;1;1;0;0;1
 Die Firma;1;0;1;0;1
@@ -201,20 +196,24 @@ BYOR;1;0;1;0;1
 Bryan Adams;1;1;1;0;0
 BRONSKI BEAT;1;0;1;1;0
 Boney M.;0;0;1;1;1
-BLUR;0;1;1;1;0
 BILL WITHERS;0;1;1;1;0
 Beyoncé;1;0;0;1;1
 Beatrice Egli;1;1;0;0;1
 ATB;1;1;0;0;1
 Apache 207;1;0;1;0;1
+Alice Merton;1;1;1;0;0
+ACraze;1;0;1;0;1
+WHIGFIELD;1;1;0;0;0
+The Police;1;0;1;1;0
+FLEETWOOD MAC;0;1;1;1;0
+Felix Jaehn;0;0;1;1;1
+DJ Robin;1;0;0;1;1
+BLUR;0;1;1;1;0
 AnnenMayKantereit;1;0;1;1;0
 Alle Farben;1;0;0;1;1
-Alice Merton;1;1;1;0;0
 Alexandra Stan;1;0;1;1;0
-ACraze;1;0;1;0;1
 50 Cent;0;0;1;1;1
 Willy William;0;0;1;0;1
-Willie Nelson;0;0;0;1;1
 will.i.am;0;0;1;1;0
 WESTERNHAGEN;1;1;0;0;0
 Wes;0;0;1;1;0
@@ -310,7 +309,6 @@ N-TRANCE;1;0;0;1;0
 Nina Chuba;0;0;1;0;1
 Nathan Evans;0;0;1;1;0
 Mufasa;0;0;0;1;1
-Mr. Probz;0;0;1;1;0
 MR. PRESIDENT;1;0;0;1;0
 Mousse T.;1;0;0;0;1
 MOGUAI;0;0;0;1;1
@@ -402,26 +400,17 @@ Gala;0;0;1;1;0
 Gabry Ponte;0;0;0;1;1
 Fritz Kalkbrenner;0;0;0;1;1
 Freddie Mercury;1;0;1;0;0
-Francesco Yates;0;0;1;1;0
 Fergie;0;0;1;0;1
 Fedde Le Grand;1;0;0;0;1
 Fatboy Slim;0;0;0;1;1
 Etta James;0;0;1;1;0
 Escort;0;0;1;1;0
-Eros Ramazzotti;0;0;1;1;0
 Eric Prydz;1;0;0;0;1
-ERIC CLAPTON;0;1;0;1;0
 Erasure;1;0;1;0;0
-EMPIRE OF THE SUN;0;1;0;1;0
 Elvis Presley;1;0;1;0;0
 Ellie Goulding;0;0;1;0;1
-Ella Henderson;0;0;0;1;1
-Elderbrook;0;0;1;1;0
-Dynoro;0;0;1;1;0
 DUFFY;0;1;1;0;0
 Drake;0;0;1;0;1
-DR ALBAN;0;1;0;0;1
-DOOBIE BROTHERS;0;1;0;1;0
 DONNA LEWIS;0;1;1;0;0
 DOLLY PARTON;0;1;1;0;0
 Dollarman;0;0;1;0;1
@@ -429,20 +418,16 @@ DNCE;0;0;1;1;0
 DJ Snake;0;0;1;0;1
 DJ Herzbeat;1;1;0;0;0
 DJ ANTOINE;1;0;1;0;0
-Dixie Cups;0;0;1;1;0
 Diplo;1;0;0;0;1
 Die Draufgänger;1;0;1;0;0
 DIE ATZEN;0;1;0;0;1
 Diana Ross;1;0;1;0;0
 Dexys Midnight Runners;1;0;1;0;0
-De La Soul;0;0;1;1;0
 Darude;1;0;0;0;1
 Danzel;1;1;0;0;0
 DAN HARTMAN;1;0;1;0;0
-DaBaby;0;0;1;1;0
 Cyndi Lauper;1;0;1;0;0
 Cutee B;0;0;1;0;1
-CURTIS MAYFIELD;0;1;0;1;0
 CULTURE CLUB;1;0;1;0;0
 Corona;0;0;1;0;1
 Cookin' On 3 Burners;0;0;1;0;1
@@ -456,22 +441,16 @@ CHRIS REA;0;1;1;0;0
 CHRIS ISAAK;0;1;1;0;0
 Chic;0;0;1;1;0
 Cherish;1;0;0;0;1
-Cheat Codes;0;0;0;1;1
 Charlie Puth;1;0;1;0;0
-Celeste;0;0;1;1;0
 Carly Rae Jepsen;1;0;1;0;0
 Cardi B;0;0;1;0;1
-Capital Cities;0;0;1;1;0
 Camila Cabello;0;0;1;1;0
-CamelPhat;0;0;1;1;0
 Calum Scott;0;0;0;1;1
 BUDDY;1;0;0;0;1
 Bryn Christopher;1;0;1;0;0
 Brings;0;0;1;0;1
-Bonnie Tyler;1;0;0;1;0
 Bonez MC;0;0;1;0;1
 Bob Sinclar;0;0;1;0;1
-Blumentopf;0;0;1;1;0
 Blackstreet;1;0;1;0;0
 Billy Talent;0;0;1;0;1
 BILLY OCEAN;0;1;1;0;0
@@ -486,7 +465,6 @@ Atc;1;0;1;0;0
 ARETHA FRANKLIN;0;1;1;0;0
 Aqua;1;0;0;1;0
 Anastacia;1;0;1;0;0
-America;0;0;1;1;0
 Aloe Blacc;0;0;1;1;0
 Alle Achtung;0;0;1;1;0
 Alicia Keys;1;0;1;0;0
@@ -496,35 +474,50 @@ Adriano Celentano;0;0;1;1;0
 ACHIM REICHEL;0;1;0;0;1
 Ace of Base;1;0;1;0;0
 A7S;1;0;0;0;1
-40 Thieves;0;0;1;1;0
 2raumwohnung;1;0;1;0;0
+Willie Nelson;0;0;0;1;0
+Mr. Probz;0;0;1;1;0
+Francesco Yates;0;0;1;1;0
+Eros Ramazzotti;0;0;1;1;0
+ERIC CLAPTON;0;1;0;1;0
+EMPIRE OF THE SUN;0;1;0;1;0
+Ella Henderson;0;0;0;1;1
+Elderbrook;0;0;1;1;0
+Dynoro;0;0;1;1;0
+DOOBIE BROTHERS;0;1;0;1;0
+Dixie Cups;0;0;1;1;0
+De La Soul;0;0;1;1;0
+DaBaby;0;0;1;1;0
+CURTIS MAYFIELD;0;1;0;1;0
+Cheat Codes;0;0;0;1;1
+Celeste;0;0;1;1;0
+Capital Cities;0;0;1;1;0
+CamelPhat;0;0;1;1;0
+Bonnie Tyler;1;0;0;1;0
+Blumentopf;0;0;1;1;0
+America;0;0;1;1;0
+40 Thieves;0;0;1;1;0
 zzoilo;0;0;1;0;0
 ZZ TOP;0;1;0;0;0
-Zwette;0;0;0;0;1
 Zucchero;0;0;0;1;0
 Zillertaler Schuerzenjaeger;0;0;0;1;0
 Ziggy Stardust;0;0;1;0;0
 Zero 7;0;0;0;1;0
 Zaz;0;0;1;0;0
-ZAAC;0;0;0;0;1
 Yuliet Topaz;0;0;1;0;0
 YouNotUs;0;0;0;0;1
 Young-Holt Unlimited;0;0;1;0;0
 Young Thug;0;0;0;1;0
 Young Rascals;0;0;1;0;0
 Yolanda Be Cool & Dcup;0;0;1;0;0
-Yolanda Be Cool;0;0;0;0;1
 Yello;0;0;0;0;1
 Years & Years;0;0;0;0;1
-Yeah Yeah Yeahs;0;0;0;0;1
-Yazoo;0;0;0;0;1
 Yann Tiersen;0;0;1;0;0
 XXXTENTACION;1;0;0;0;0
 XX EDITS;0;0;1;0;0
 Xavier Rudd;0;0;1;0;0
 Wyclef Jean;0;0;1;0;0
 Wolfsheim;1;0;0;0;0
-Wiz Khalifa;0;0;0;1;0
 Wisin & Yandel;0;0;1;0;0
 Wisin;1;0;0;0;0
 Wirtz;0;0;0;1;0
@@ -555,7 +548,6 @@ Wanda Jackson;1;0;0;0;0
 Walter Wanderley;0;0;1;0;0
 Walter Murphy;0;0;1;0;0
 Waldeck;0;0;1;0;0
-Voodoo;0;0;0;0;1
 Vonda Shepard;0;0;1;0;0
 Von Wegen Lisbeth;0;0;1;0;0
 Visage;0;0;0;1;0
@@ -684,7 +676,7 @@ THE BLOW MONKEYS;0;1;0;0;0
 The Bloodhound Gang;0;0;0;0;1
 THE BELOVED;0;1;0;0;0
 The Beginning Of The End;0;0;0;1;0
-THE BEATLES;1;0;0;0;0
+THE BEATLES;1;0;1;0;0
 The Archies;0;0;0;1;0
 Texas Lightning;0;0;0;1;0
 Terry Callier;0;0;1;0;0
@@ -744,7 +736,6 @@ Solardo;1;0;0;0;0
 Sofia Reyes;0;0;1;0;0
 Sofia Petersson;0;0;1;0;0
 Sofa Surfers;0;0;1;0;0
-SNAP;1;0;0;0;0
 Smokie;0;0;0;1;0
 SLIM MAN;0;1;0;0;0
 Slackwax;0;0;1;0;0
@@ -983,7 +974,6 @@ No Doubt;0;0;1;0;0
 Ninetoes;0;0;0;1;0
 Nina Sky;0;0;1;0;0
 NINA SIMONE;0;0;0;1;0
-Nimo;0;0;0;0;1
 Nils Wülker;0;0;1;0;0
 NILE RODGERS ;0;0;0;1;0
 NIK P.;0;1;0;0;0
@@ -1338,7 +1328,6 @@ Jimmy Messina;0;0;1;0;0
 Jimmy McGriff;0;0;1;0;0
 Jimi Tenor;0;0;0;1;0
 Jim Jamison;0;0;0;1;0
-Jim Jacoba;0;0;1;0;0
 JETHRO TULL;0;1;0;0;0
 Jet;0;0;1;0;0
 Jestofunk;0;0;0;1;0
@@ -1538,12 +1527,9 @@ Flamingo Star;0;0;1;0;0
 Fine Young Cannibals;0;0;1;0;0
 Fifth Harmony;0;0;1;0;0
 Fifth Dimension;0;0;1;0;0
-Fetenhits;0;0;0;1;0
-Felix Dickinson;0;0;0;1;0
 FELIX DE LUXE;0;1;0;0;0
 Fedde LeGrand;0;0;1;0;0
 Fats Domino;0;0;1;0;0
-Fatman Scoop ;0;0;0;1;0
 Fake Pictures;0;0;1;0;0
 FabioLous Barker;0;0;1;0;0
 Fäaschtbänkler;0;0;0;1;0
@@ -1566,16 +1552,13 @@ ENUR;0;0;1;0;0
 Endor;0;0;0;0;1
 En Vogue;0;0;1;0;0
 EMPRESS LATOYAH;0;1;0;0;0
-Emmanuel Jal;0;0;0;1;0
 EMMA BUNTON;0;1;0;0;0
 Emiliana Torrini;0;0;1;0;0
 Emilee;0;0;0;1;0
 Elvis Crespo;0;0;0;0;1
-Elodie;0;0;0;1;0
 Ella Eyre;0;0;0;0;1
 Elkie Brooks;0;0;1;0;0
 Eliane Elias;0;0;1;0;0
-Elettra Lamborghini;0;0;0;1;0
 Electric Light Orchestra;0;0;1;0;0
 El Cata;0;0;1;0;0
 Eierplätzchenbänd;0;0;1;0;0
@@ -1588,7 +1571,6 @@ Edie Brickell;0;0;1;0;0
 Eddie Rabbitt;1;0;0;0;0
 Eddie Cochran;0;0;1;0;0
 Eartha Kitt;0;0;1;0;0
-EARTH, WIND AND FIRE;0;1;0;0;0
 EARL KLUGH;0;1;0;0;0
 Eagles;0;0;1;0;0
 EAGLE-EYE CHERRY;0;1;0;0;0
@@ -1600,34 +1582,27 @@ DURAN DURAN;1;0;0;0;0
 Duke Dumont;0;0;1;0;0
 Duke & Jones;1;0;0;0;0
 Duck Sauce;0;0;0;0;1
-Dschinghis Khan;0;0;0;1;0
 Dru Hill;0;0;1;0;0
 Dropkick Murphys;0;0;1;0;0
 Drop Out Orchestra;0;0;1;0;0
 Dragonette;0;0;0;0;1
 Drafi Deutscher;1;0;0;0;0
 Dr. Dre;0;0;1;0;0
-Dr Packer;0;0;0;1;0
 Dr Hook;0;0;0;1;0
 Dove Cameron;1;0;0;0;0
-Double U.;0;0;0;1;0
 DOUBLE;0;1;0;0;0
-Doris Day ;0;0;0;1;0
 Doris Day;1;0;0;0;0
 Doors, the;0;0;1;0;0
 DONATI;0;1;0;0;0
 Donald Fagen;0;0;1;0;0
-Don Omar & LUCENZO;1;0;0;0;0
 Don Grusin;0;0;1;0;0
 Doja Cat;0;0;1;0;0
-Doctor Rockit;0;0;0;1;0
 Dobie Gray;0;0;1;0;0
 DMX;1;0;0;0;0
 DJ TOP;0;0;0;0;1
 Dj Tonka;1;0;0;0;0
 DJ Tobi Schagen;0;0;0;0;1
 DJ The Wave;1;0;0;0;0
-DJ Sammy;0;0;0;1;0
 DJ Romain;0;0;1;0;0
 DJ ROBIN AND SCHÜRZE;0;1;0;0;0
 DJ POL465;0;0;0;0;1
@@ -1640,7 +1615,6 @@ DJ Khaled;0;0;1;0;0
 DJ Keule ;0;0;0;0;1
 DJ Kass;0;0;1;0;0
 DJ Jazzy Jeff & Fresh Prince;0;0;1;0;0
-Dj Disse;0;0;0;1;0
 DJ Daidol;0;0;1;0;0
 Dj Cashi;1;0;0;0;0
 DIVA;0;1;0;0;0
@@ -1649,7 +1623,6 @@ Disco Sugar;0;0;0;0;1
 Disco Polo;0;0;1;0;0
 Disco Boys;0;0;1;0;0
 Disclosure;0;0;1;0;0
-Dire Straits;0;0;0;1;0
 Dionne Warwick;0;0;1;0;0
 Dimitri Vegas;0;0;0;0;1
 Dimitri From Paris;0;0;1;0;0
@@ -1702,7 +1675,6 @@ Dandy Warhols;0;0;1;0;0
 DAN HARTMANN;0;1;0;0;0
 Dalida & Alain Delon;0;0;1;0;0
 Dalida;0;0;1;0;0
-Dabu Fantastic;0;0;0;1;0
 CUTTING CREW;0;1;0;0;0
 Curbi;0;0;0;0;1
 CULTURED PEARLS;0;1;0;0;0
@@ -1710,7 +1682,6 @@ Cubaneros Salsa Dance;0;0;0;0;1
 Crystal Waters;0;0;1;0;0
 Crump;0;0;1;0;0
 CROWDED HOUSE;0;1;0;0;0
-Creedence Clearwater Revival ;0;0;0;1;0
 Creedance Clearwater Revival;1;0;0;0;0
 Crazibiza;0;0;0;0;1
 CRASH TEST DUMMIES;0;1;0;0;0
@@ -1718,7 +1689,6 @@ Craig David;0;0;1;0;0
 Coralie Clément;0;0;1;0;0
 CORALIE CLEMENT;0;1;0;0;0
 Cora;1;0;0;0;0
-Copenema;0;0;0;1;0
 Cook Robin;1;0;0;0;0
 Contours;0;0;1;0;0
 Conor Byrne;0;0;1;0;0
@@ -1773,18 +1743,13 @@ Cat Stevens;0;0;1;0;0
 Cat Ballou;0;0;1;0;0
 Cassandra Steen;1;0;0;0;0
 Cassandra Melt;0;0;1;0;0
-Cassandra Beck;0;0;0;1;0
-Cascada;0;0;0;1;0
 Carpenters;0;0;1;0;0
 Carole King;0;0;1;0;0
 Carol Douglas;0;0;1;0;0
 Caro Emerald;0;0;1;0;0
 Carly Simon;0;0;1;0;0
-Carlo Rustichelli;0;0;0;1;0
 Carl Perkins;0;0;1;0;0
-Captain Sensible;0;0;0;1;0
 Captain Jack;0;0;0;1;0
-Capitol A;0;0;0;1;0
 Camilo;0;0;1;0;0
 Camille;0;0;1;0;0
 CAMIEL;0;1;0;0;0
@@ -1807,7 +1772,6 @@ Brothers of Hope;0;0;1;0;0
 Brooke Fraser;0;0;1;0;0
 Bright Eyes;0;0;1;0;0
 Brian Briggs;0;0;1;0;0
-Brenda Boykin;0;0;0;1;0
 BRAN VAN 3000;0;0;0;1;0
 Boz Scaggs;0;0;1;0;0
 Boyzone;1;0;0;0;0
@@ -1822,34 +1786,26 @@ Borgeous;0;0;0;0;1
 Boozoo Bajou;0;0;1;0;0
 Boots Randolph;0;0;1;0;0
 Boore;0;0;1;0;0
-Boomfunk MC's;0;0;0;1;0
-BONEY M;0;1;0;0;0
-BON SINCLAIR;0;0;0;1;0
-Bodzin;0;0;0;1;0
+BONEY M;0;1;0;1;0
 Bobby Womack;0;0;1;0;0
 Bobby McFerrin;0;0;1;0;0
 Bobby Hackett;0;0;1;0;0
-Bobby Darin;0;0;0;1;0
 Bob Seger;0;0;1;0;0
 Bob Marley & The Wailers;0;0;0;0;1
 Bob Baldwin;0;0;1;0;0
-Bo Kirkland;0;0;0;1;0
 BLUEZEUM;0;1;0;0;0
 Blues Brothers;0;0;1;0;0
 Blue Lagoon;1;0;0;0;0
 Blue;1;0;0;0;0
 BLOW MONKEYS;0;1;0;0;0
 Blossom Dearie;0;0;1;0;0
-Blondie;0;0;0;1;0
 Blondee;0;0;0;0;1
 Blonde;0;0;1;0;0
 Block & Crown;0;0;0;1;0
 Blink-182;0;0;1;0;0
-Blessed Madonnas;0;0;0;1;0
 Blaskapelle;0;0;1;0;0
 Blankenlocher Pfinzspatzen;1;0;0;0;0
 BLANK AND JONES;0;1;0;0;0
-Blanco;0;0;0;1;0
 BLACKPINK;0;0;1;0;0
 BLACKNUSS;0;1;0;0;0
 Black Machine;0;0;1;0;0
@@ -1860,38 +1816,30 @@ BLACK & WHITE BROTHERS;1;0;0;0;0
 Bing Crosby;0;0;1;0;0
 Billy Idol;0;0;1;0;0
 Billy Butterfiled;0;0;1;0;0
-Billie Eilish;0;0;0;1;0
-Billen Ted;0;0;0;1;0
 Bill Medley;1;0;0;0;0
 Bill Haley & his Comets;0;0;1;0;0
 Bill Haley;1;0;0;0;0
 Bill Curtis;0;0;1;0;0
-Bilderbuch;0;0;0;1;0
-Big Sean;0;0;0;1;0
 Big Mountain;0;0;1;0;0
 Big Kölsch Orchestra;0;0;1;0;0
 Biffy Clyro;0;0;1;0;0
 Beyonce;0;0;1;0;0
 Betty Everett;0;0;1;0;0
-Betina Bager;0;0;0;1;0
 Bert Kaempfert & his Orchestra;0;0;1;0;0
 Bert Kaempfert;0;0;1;0;0
 BERNHARD BRINK;0;1;0;0;0
 Berk and the Virtual Band;0;0;0;1;0
 Benny Benassi;0;0;0;0;1
 Ben Zucker;0;0;0;0;1
-Ben Sidran;0;0;0;1;0
 Ben Eggs;0;0;1;0;0
 BELOUIS SOME;0;1;0;0;0
-Bellestar;0;0;0;1;0
 BEKAY;0;0;0;0;1
 Beginner;0;0;1;0;0
 Becky Hill;0;0;0;0;1
 Becci;0;0;0;0;1
 Bebe Rexha;0;0;0;0;1
-Beatles, the;0;0;1;0;0
+Beatles, the;0;0;0;0;0
 Beatgees;0;0;0;0;1
-Beastie Boys;0;0;0;1;0
 Beanfield;0;0;1;0;0
 Beach Boys;0;0;1;0;0
 B-Case;0;0;0;0;1
@@ -1908,9 +1856,7 @@ Barbie Gaye;0;0;1;0;0
 Barbara Acklin;0;0;1;0;0
 Barb Jungr;0;0;1;0;0
 BAP;0;0;1;0;0
-Banda Do Sul;0;0;0;1;0
 Ballin' Jack;0;0;1;0;0
-Bakermat;0;0;0;1;0
 Baha Men;0;0;1;0;0
 Baby Lores;0;0;1;0;0
 Baby K;0;0;0;1;0
@@ -1918,14 +1864,12 @@ B. Devotion;0;0;1;0;0
 Azymuth;0;0;1;0;0
 Ayo;0;0;1;0;0
 Ayman;1;0;0;0;0
-Axwell Ingrosso;0;0;0;1;0
 Axwell;0;0;1;0;0
 Axel F;0;0;0;0;1
 Avril Lavigne;0;0;1;0;0
 Average White Band;0;0;1;0;0
 Augusto Alguero;0;0;1;0;0
 Auf Pomali;0;0;1;0;0
-AUditors DOmination;0;0;0;1;0
 Atomic Kitten;1;0;0;0;0
 A-TEENS;0;1;0;0;0
 Asaf Avidan & The Mojos;0;0;1;0;0
@@ -1942,7 +1886,6 @@ Anthony B.;0;0;1;0;0
 Anne-Marie;0;0;1;0;0
 Anna Naklab;0;0;0;0;1
 ANNA MARIA JOPEK;0;1;0;0;0
-Anna Costa;0;0;1;0;0
 Anitta;0;0;0;0;1
 Anita Ward;0;0;1;0;0
 Anita O'Day;0;0;1;0;0
@@ -1952,9 +1895,7 @@ Andrea Bocelli;0;0;0;1;0
 Andrea Berg;1;0;0;0;0
 Andre;0;0;1;0;0
 Anakelly;0;0;1;0;0
-Anabel Englund;0;0;0;1;0
 Ana Costa;0;0;1;0;0
-Amy Winehouse;0;0;0;1;0
 Amr Diab;0;0;1;0;0
 Amo Amo;0;0;0;1;0
 Ambrosia;0;0;1;0;0
@@ -1994,19 +1935,74 @@ Aerosmith;0;0;1;0;0
 Aeroplane;0;0;1;0;0
 Adss;0;0;1;0;0
 ADELE;0;1;0;0;0
-Adel Tawil;0;0;0;1;0
 Adel Tawi;0;0;0;1;0
-Achille Lauro ;0;0;0;1;0
 A1 x J1;1;0;0;0;0
 7th Heaven;0;0;0;0;1
 48th St. Collective;0;0;1;0;0
 4 to the Bar;0;0;1;0;0
 4 Non Blondes;0;0;1;0;0
 2-Man Legend;0;0;1;0;0
-220 Kid;0;0;0;1;0
 2 Unlimited;1;0;0;0;0
 2 Pac;1;0;0;0;0
 112;1;0;0;0;0
 10 CC;1;0;0;0;0
 """Joliet"" Jake Blues";0;0;1;0;0
+Zwette;0;0;0;0;0
+ZAAC;0;0;0;0;0
+Yolanda Be Cool;0;0;0;0;0
+Yeah Yeah Yeahs;0;0;0;0;0
+Yazoo;0;0;0;0;0
+Voodoo;0;0;0;0;0
+Nimo;0;0;0;0;0
+Jim Jacoba;0;0;0;0;0
+Fetenhits;0;0;0;1;0
+Felix Dickinson;0;0;0;1;0
+Fatman Scoop ;0;0;0;1;0
+Emmanuel Jal;0;0;0;1;0
+Elodie;0;0;0;1;0
+Elettra Lamborghini;0;0;0;1;0
+Dschinghis Khan;0;0;0;1;0
+Dr Packer;0;0;0;1;0
+Double U.;0;0;0;1;0
+Doris Day ;0;0;0;1;0
+Don Omar & LUCENZO;0;0;0;0;0
+Doctor Rockit;0;0;0;1;0
+DJ Sammy;0;0;0;1;0
+Dj Disse;0;0;0;1;0
+Dire Straits;0;0;0;1;0
+Dabu Fantastic;0;0;0;1;0
+Creedence Clearwater Revival ;0;0;0;1;0
+Copenema;0;0;0;1;0
+Cassandra Beck;0;0;0;1;0
+Cascada;0;0;0;1;0
+Carlo Rustichelli;0;0;0;1;0
+Captain Sensible;0;0;0;1;0
+Capitol A;0;0;0;1;0
+Brenda Boykin;0;0;0;1;0
+Boomfunk MC's;0;0;0;1;0
+BON SINCLAIR;0;0;0;1;0
+Bodzin;0;0;0;1;0
+Bobby Darin;0;0;0;1;0
+Bo Kirkland;0;0;0;1;0
+Blondie;0;0;0;1;0
+Blessed Madonnas;0;0;0;1;0
+Blanco;0;0;0;1;0
+Billie Eilish;0;0;0;1;0
+Billen Ted;0;0;0;1;0
+Bilderbuch;0;0;0;1;0
+Big Sean;0;0;0;1;0
+Betina Bager;0;0;0;1;0
+Ben Sidran;0;0;0;1;0
+Bellestar;0;0;0;1;0
+Beastie Boys;0;0;0;1;0
+Banda Do Sul;0;0;0;1;0
+Bakermat;0;0;0;1;0
+Axwell Ingrosso;0;0;0;1;0
+AUditors DOmination;0;0;0;1;0
+Anna Costa;0;0;0;0;0
+Anabel Englund;0;0;0;1;0
+Amy Winehouse;0;0;0;1;0
+Adel Tawil;0;0;0;1;0
+Achille Lauro ;0;0;0;1;0
+220 Kid;0;0;0;1;0
 1979;0;0;0;1;0
