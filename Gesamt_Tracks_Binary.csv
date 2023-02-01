@@ -13,10 +13,11 @@ September;1;1;1;1;1;1
 Sing Hallelujah!;1;1;1;1;1;1
 Wannabe;1;1;1;1;1;1
 What Is Love;1;1;1;1;1;1
+Narcotic;1;1;1;1;1;1
+Blue;1;1;1;1;1;1
 Cold Heart;1;1;1;1;1;0
 Ein Kompliment;1;1;1;1;1;0
 Monsta;1;1;1;1;1;0
-Narcotic;1;1;1;1;1;0
 Skandal Im Sperrbezirk;1;1;1;1;1;0
 Sweet Dreams;1;1;1;1;1;0
 Angels;1;1;1;1;0;1
@@ -45,10 +46,12 @@ Take On Me;1;1;0;1;1;1
 Westerland;1;1;1;1;0;1
 When Love Takes Over;1;1;0;1;1;1
 Wonderwall;1;1;0;1;1;1
-I Will Survive;1;1;1;1;0;0
+I Will Survive;1;1;1;1;1;0
+Auf Uns;1;0;1;1;1;1
+Around The World;1;1;0;1;1;1
+Losing It;1;1;0;1;1;1
 Africa;0;1;1;1;1;0
 All That She Wants;1;1;0;1;1;0
-Auf Uns;1;0;1;1;1;0
 Dancing Queen;1;1;0;1;1;0
 Escape;1;1;0;1;1;0
 Eye Of The Tiger;1;1;0;1;1;0
@@ -63,7 +66,6 @@ Summer Of '69;1;1;1;1;0;0
 Tainted Love;1;0;1;1;1;0
 Teenage Dirtbag;0;1;1;1;1;0
 All Night Long;1;1;0;1;0;1
-Around The World;1;1;0;0;1;1
 Augenbling;1;0;1;1;0;1
 Be Faithful;1;1;0;0;1;1
 Bella Ciao;0;1;0;1;1;1
@@ -94,7 +96,6 @@ Last Resort;1;1;0;1;0;1
 Layla;1;0;1;0;1;1
 Levitating;0;1;0;1;1;1
 Like The Way I Do;1;0;1;1;0;1
-Losing It;1;1;0;0;1;1
 Mama Laudaaa;1;0;1;0;1;1
 On The Floor;0;1;1;1;0;1
 Roller;1;1;0;1;0;1
@@ -111,16 +112,30 @@ Warum Hast Du Nicht Nein Gesagt;1;0;1;1;0;1
 Watch Out For This;1;1;0;1;0;1
 Welcome To St. Tropez;1;1;0;1;0;1
 Yeah!;0;1;0;1;1;1
+Believe;1;1;1;1;0;0
+Daddy Cool;0;0;1;1;1;1
+Head And Heart;1;1;0;1;0;1
+Head Shoulders Knees And Toes;0;1;1;1;0;1
+Herzbeben;1;0;0;1;1;1
+It'S My Life;1;1;1;1;0;0
+Liquid Spirit;0;1;1;1;0;1
+Mr. Vain;1;1;0;1;1;0
+Titanium;0;1;0;1;1;1
+Turn Me On;1;1;0;1;0;1
+Alors On Danse;0;1;0;1;1;1
+Belly Dancer;1;1;0;1;0;1
+Don'T Stop 'Til You Get Enough;1;1;0;0;1;1
+Hypnotized;1;0;0;1;1;1
+Low;0;1;0;1;1;1
+Move Your Body;1;0;1;1;0;1
 Achterbahn;1;0;0;1;1;0
 Alane;0;1;0;1;1;0
 And We Danced;0;1;0;1;1;0
 Another One Bites The Dust;1;0;0;1;1;0
-Believe;1;1;1;0;0;0
 Black Betty;1;0;1;1;0;0
 Boogie Wonderland;1;0;1;1;0;0
 Brooklyn;1;0;1;0;1;0
 Cake By The Ocean;0;1;0;1;1;0
-Daddy Cool;0;0;1;1;1;0
 Dance With Somebody;0;1;0;1;1;0
 Don'T Be So Shy;0;1;1;0;1;0
 Don'T Stop Believin';0;1;0;1;1;0
@@ -130,25 +145,19 @@ Dragostea Din Tei;1;1;0;0;1;0
 Einmal Um Die Welt;0;1;0;1;1;0
 Feel It Still;0;1;0;1;1;0
 Griechischer Wein;0;0;1;1;1;0
-Head And Heart;1;1;0;1;0;0
-Head Shoulders Knees And Toes;0;1;1;1;0;0
 Here Comes The Hotstepper;1;1;0;1;0;0
 Here Comes The Rain Again;0;0;1;1;1;0
-Herzbeben;1;0;0;1;1;0
 How Deep Is Your Love;1;1;0;1;0;0
 I Am What I Am;1;0;1;1;0;0
 I Love It;0;1;0;1;1;0
 Ich Liebe Das Leben;1;0;0;1;1;0
 In My Mind;0;1;0;1;1;0
 In The Air Tonight;0;1;1;1;0;0
-It'S My Life;1;1;1;0;0;0
 Jerusalema;1;0;0;1;1;0
 Jolene;0;0;1;1;1;0
 Ladies Night;1;1;1;0;0;0
-Liquid Spirit;0;1;1;1;0;0
 Love Is In The Air;0;0;1;1;1;0
 Marie;1;0;0;1;1;0
-Mr. Vain;0;1;0;1;1;0
 Nordisch By Nature;1;1;0;0;1;0
 Relax;1;0;0;1;1;0
 Samba De Janeiro;0;1;0;1;1;0
@@ -159,8 +168,6 @@ Smoke On The Water;0;0;1;1;1;0
 Son Of A Preacher Man;1;1;0;1;0;0
 Song 2;0;1;1;1;0;0
 Take A Chance On Me;1;0;0;1;1;0
-Titanium;0;1;0;1;1;0
-Turn Me On;1;1;0;1;0;0
 Umbrella;1;0;0;1;1;0
 Waka Waka;1;1;0;1;0;0
 Walking In Memphis;1;0;1;1;0;0
@@ -169,9 +176,7 @@ Señorita;0;0;0;1;1;1
 1000 Träume Weit;1;0;0;0;1;1
 24K Magic;0;1;0;1;0;1
 Alles Neu;0;1;0;1;0;1
-Alors On Danse;0;1;0;0;1;1
 Bailando;0;1;1;0;0;1
-Belly Dancer;1;1;0;0;0;1
 Breaking Free;1;0;0;1;0;1
 Candy Shop;0;1;0;1;0;1
 Celebration;1;0;0;1;0;1
@@ -183,25 +188,21 @@ Dickes B;0;1;1;0;0;1
 Die Eine;1;0;0;1;0;1
 Disco Pogo;0;1;1;0;0;1
 Dj Got Us Fallin' In Love;0;1;1;0;0;1
-Don'T Stop 'Til You Get Enough;0;1;0;0;1;1
 Ferrari;0;1;0;0;1;1
 For You;1;0;0;1;0;1
 Gangnam Style;1;0;0;0;1;1
 Gasolina;0;1;0;1;0;1
 Gold Digger;0;1;0;1;0;1
 Guten Morgen Barbarossaplatz;0;1;0;1;0;1
-Hypnotized;1;0;0;0;1;1
 I Know You Want Me;1;0;0;1;0;1
 I Want It That Way;0;1;0;1;0;1
 La Cintura;0;0;0;1;1;1
 Lady;0;1;0;1;0;1
 Leev Marie;0;1;0;1;0;1
 Let Me Think About It;1;0;0;1;0;1
-Low;0;1;0;0;1;1
 Mas Que Nada;0;1;0;1;0;1
 Mein Herz;1;0;1;0;0;1
 Mi Gente;0;1;0;1;0;1
-Move Your Body;1;0;1;0;0;1
 Moves Like Jagger;0;1;0;1;0;1
 One More Time;0;1;0;0;1;1
 Polka, Polka, Polka;0;1;0;1;0;1
@@ -224,13 +225,27 @@ Where Are You Now;0;0;0;1;1;1
 Wir Sagen Danke Schön;1;1;0;0;0;1
 You Can'T Hurry Love;1;0;0;1;0;1
 Your Love;1;0;1;0;0;1
-Giant;1;0;0;1;0;0
+Giant;1;0;0;1;1;0
+Abcdefu;0;0;0;1;1;1
+Bad Habits;0;0;1;1;0;1
+Coco Jamboo;1;1;0;0;0;1
+Cola;0;1;0;1;1;0
+Cosmic Girl;1;0;1;1;0;0
+Der Kommissar;1;0;0;1;0;1
+Don'T Stop The Music;0;1;0;1;1;0
+Geiles Leben;1;0;1;0;0;1
+Just Can'T Get Enough;0;0;0;1;1;1
+Ritmo;1;0;0;1;1;0
+Sternenhimmel;1;0;0;1;1;0
+A Sky Full Of Stars;0;0;1;1;0;1
+Get Busy;0;1;0;1;0;1
+Sky And Sand;0;0;0;1;1;1
+This Girl;0;1;0;1;0;1
 1000 Und Eine Nacht;1;0;1;0;0;0
 180 Grad;1;0;1;0;0;0
 99 Luftballons;1;0;0;0;1;0
 A Horse With No Name;0;0;0;1;1;0
 A Little Party Never Killed Nobody;0;1;0;1;0;0
-Abcdefu;0;0;0;1;1;0
 Aber Bitte Mit Sahne;1;0;0;0;1;0
 Alle JläSer Huh;0;1;0;1;0;0
 Amore Mio;1;0;0;1;0;0
@@ -238,7 +253,6 @@ Animals;0;1;0;1;0;0
 Are You Gonna Be My Girl;0;1;0;1;0;0
 Axel F;1;0;0;0;1;0
 Azzurro;0;0;0;1;1;0
-Bad Habits;0;0;1;1;0;0
 Bailamos;1;0;1;0;0;0
 Balada;1;0;0;1;0;0
 Barbie Girl;1;0;0;0;1;0
@@ -263,22 +277,17 @@ Can'T Get You Out Of My Head;1;0;0;1;0;0
 Chöre;1;0;1;0;0;0
 Cocaine Blues;0;0;0;1;1;0
 Coco Jambo;1;0;0;0;1;0
-Coco Jamboo;1;1;0;0;0;0
-Cola;0;1;0;0;1;0
 Come On Eileen;1;0;0;1;0;0
-Cosmic Girl;1;0;1;0;0;0
 Crazy;0;0;0;1;1;0
 Currywurst;1;0;1;0;0;0
 Dä Plan;0;1;0;1;0;0
 Dancing In The Moonlight;0;1;0;0;1;0
-Der Kommissar;1;0;0;1;0;0
 Desafinado;0;0;1;1;0;0
 Die Da!?!;1;0;0;1;0;0
 Die Immer Lacht;1;0;1;0;0;0
 Do It Again;0;0;0;1;1;0
 Don'T Go Breaking My Heart;0;0;1;0;1;0
 Don'T Start Now;0;0;0;1;1;0
-Don'T Stop The Music;0;1;0;0;1;0
 Don'T Turn It Off;0;0;0;1;1;0
 Don'T You Want Me;0;0;0;1;1;0
 Down Under;0;1;0;1;0;0
@@ -300,7 +309,6 @@ Fireball;0;1;0;0;1;0
 Following The Sun;0;0;1;0;1;0
 Fresh;1;0;1;0;0;0
 Garden Party;0;0;1;1;0;0
-Geiles Leben;1;0;1;0;0;0
 Get Down On It;0;1;0;0;1;0
 Get Down Saturday Night;0;0;1;0;1;0
 Give Me The Night;0;0;1;1;0;0
@@ -339,7 +347,6 @@ Jailhouse Rock;1;0;0;1;0;0
 Jesteś Szalona;1;0;0;1;0;0
 Jubel;0;1;0;0;1;0
 Jump;1;0;0;1;0;0
-Just Can'T Get Enough;0;0;0;1;1;0
 Kids (2 Finger An Den Kopf);0;1;0;1;0;0
 Kiss;0;0;0;1;1;0
 KöLsche Jung;0;1;0;1;0;0
@@ -402,7 +409,6 @@ Regenbogenfarben;0;1;0;0;1;0
 Relight My Fire;1;0;1;0;0;0
 Rendezvous;0;0;1;0;1;0
 Ride Like The Wind;0;0;1;1;0;0
-Ritmo;1;0;0;0;1;0
 Rock Around The Clock;1;0;0;1;0;0
 Roses;0;1;0;0;1;0
 Sacrifice;0;0;1;0;1;0
@@ -421,7 +427,6 @@ Smalltown Boy;0;0;0;1;1;0
 Smooth;0;0;0;1;1;0
 So Lonely;1;0;1;0;0;0
 Sofia;0;0;1;1;0;0
-Sternenhimmel;0;0;0;1;1;0
 Street Life;0;0;1;0;1;0
 Su Lang De Leechter Noch Brenne;0;1;0;1;0;0
 Su Lang Mer Noch Am LäÄVe Sin;0;1;0;1;0;0
@@ -447,7 +452,6 @@ Waves;0;0;0;1;1;0
 We Will Rock You;1;1;0;0;0;0
 Wearing Out My Shoes;0;0;0;1;1;0
 1, 2, 3;0;0;0;1;0;1
-A Sky Full Of Stars;0;0;1;0;0;1
 Ab In Den Süden;1;0;0;0;0;1
 Acapulco;0;1;0;0;0;1
 All Around The World;0;1;0;0;0;1
@@ -458,7 +462,6 @@ Are You With Me;0;0;0;1;0;1
 As It Was;1;0;0;0;0;1
 Barbra Streisand;0;1;0;0;0;1
 Bla Bla Bla;0;0;0;0;1;1
-Blue;0;0;0;1;0;1
 Call On Me;1;0;0;0;0;1
 Cinderella;1;0;0;0;0;1
 Clocks;0;1;0;0;0;1
@@ -472,7 +475,6 @@ Dished (Male Stripper);1;0;0;0;0;1
 Drop It Like It'S Hot;0;0;0;1;0;1
 Ein Teil Von Meinem Herzen;0;0;0;1;0;1
 Empire State Of Mind;0;1;0;0;0;1
-Get Busy;0;1;0;0;0;1
 Get Down;0;0;0;1;0;1
 Hello;0;1;0;0;0;1
 Hey Brother;0;0;0;1;0;1
@@ -503,7 +505,6 @@ Remedy;0;0;0;1;0;1
 Rock This Party;0;0;0;1;0;1
 Ruhrgebiet;1;0;0;0;0;1
 Sandstorm;1;0;0;0;0;1
-Sky And Sand;0;0;0;0;1;1
 Suavemente;0;1;0;0;0;1
 Sun Goes Down;0;0;0;1;0;1
 Sun Is Shining;0;0;0;0;1;1
@@ -512,7 +513,6 @@ Taki Taki;0;1;0;0;0;1
 Talk Dirty;0;1;0;0;0;1
 The Black Pearl;1;0;0;0;0;1
 The Rhythm Of The Night;0;0;0;1;0;1
-This Girl;0;1;0;0;0;1
 Ti Amo;1;0;0;0;0;1
 Türlich, Türlich;0;0;0;1;0;1
 Unterwegs;0;0;0;1;0;1
@@ -540,6 +540,31 @@ Young Right Now;0;0;1;0;0;1
 Your Love Is King;0;0;1;1;0;0
 Zu SpäT;0;1;0;1;0;0
 Zusammen;0;0;0;1;0;1
+...Baby One More Time;0;0;0;1;1;0
+All The Small Things;0;1;0;1;0;0
+Chapel Of Love;0;0;0;1;1;0
+Dance Monkey;0;0;0;1;1;0
+Easy Love;1;0;0;0;0;1
+Gettin' Jiggy Wit It;0;0;0;1;1;0
+Heads Will Roll;0;1;0;0;0;1
+Je Ne Parle Pas Français;1;0;0;0;0;1
+Killing In The Name;0;1;0;1;0;0
+Policeman;0;1;0;0;0;1
+Sunshine Reggae;1;0;0;1;0;0
+Sweat;1;0;0;1;0;0
+Sweet Lovin';1;0;0;1;0;0
+Vamos A Marte;1;0;0;0;0;1
+Wasted Love;0;1;0;0;0;1
+Weekend;1;0;0;0;0;1
+Cheerleader;0;0;0;1;0;1
+Chunky;0;1;0;0;0;1
+Love Me Like You Do;0;0;0;1;0;1
+Pony;0;0;0;1;0;1
+Porcelain;0;0;0;1;0;1
+Self Control;0;0;0;0;1;1
+Wildberry Lillet;0;0;0;1;0;1
+Yallah Goodbye;1;0;0;0;0;1
+Ride It;0;0;0;1;0;1
 1988;1;0;0;0;0;0
 """Twas Within A Furlong"", Z. 605 No. 2 (Arr. Pluhar)";0;0;0;1;0;0
 #Hashtag;0;0;0;1;0;0
@@ -548,7 +573,6 @@ Zusammen;0;0;0;1;0;1
 (Sittin' On) The Dock Of The Bay;0;0;0;1;0;0
 (They Long To Be) Close To You;0;0;0;1;0;0
 (You Make Me Feel Like) A Natural Woman;0;0;0;1;0;0
-...Baby One More Time;0;0;0;0;1;0
 +1;0;0;0;1;0;0
 1H30 La Dolce Vita;0;0;0;0;1;0
 20S;1;0;0;0;0;0
@@ -616,7 +640,6 @@ All Of Me;0;0;1;0;0;0
 All Of The Stars;0;0;0;1;0;0
 All Summer Long;1;0;0;0;0;0
 All That I Need;0;0;0;1;0;0
-All The Small Things;0;1;0;0;0;0
 All Would Envy;0;0;1;0;0;0
 Alle Nackt;1;0;0;0;0;0
 Allein Allein;1;0;0;0;0;0
@@ -823,7 +846,6 @@ Ce Soir?;0;1;0;0;0;0
 Cecilia;0;0;0;1;0;0
 Cerveza;0;0;0;1;0;0
 Champagne Supernova;0;1;0;0;0;0
-Chapel Of Love;0;0;0;0;1;0
 Charleston Buttterfly;0;0;0;1;0;0
 Cheap Thrills;0;1;0;0;0;0
 Cheek To Cheek;0;0;0;0;1;0
@@ -879,7 +901,6 @@ Dahoam Is Dahoam;0;0;0;0;1;0
 Daj Mi Tę Noc;0;0;0;1;0;0
 Damn, Dis-Moi;0;0;0;1;0;0
 Dance;1;0;0;0;0;0
-Dance Monkey;0;0;0;0;1;0
 Dance With Me;1;0;0;0;0;0
 Dance!;0;0;0;1;0;0
 Dancemixjtp;1;0;0;0;0;0
@@ -984,7 +1005,6 @@ Dziewczyna Z Facebook'A;0;0;0;1;0;0
 Dziś Ci To Powiem;1;0;0;0;0;0
 E Samba 2018;0;0;0;0;1;0
 Early Morning;0;0;1;0;0;0
-Easy Love;1;0;0;0;0;0
 Easy Lover;0;0;0;1;0;0
 Easy To Love;0;0;0;1;0;0
 Edamame;0;0;0;1;0;0
@@ -1107,7 +1127,6 @@ Get The Party Started;0;0;0;1;0;0
 Get Up I Feel Like Being Like A Sex Machine;0;0;0;1;0;0
 Get Up Stand Up;0;0;0;1;0;0
 Get Ur Freak On;0;0;0;1;0;0
-Gettin' Jiggy Wit It;0;0;0;0;1;0
 Ghostboy;0;0;0;0;1;0
 Gib Mir Mehr Davon;0;0;1;0;0;0
 Gimme All Your Lovin';0;0;1;0;0;0
@@ -1173,7 +1192,6 @@ Harvest Moon;0;0;0;1;0;0
 Have I Told You Lately That I Love You;0;0;0;1;0;0
 Have You Ever Seen The Rain;0;0;0;0;1;0
 Have You Never Been Mellow;1;0;0;0;0;0
-Heads Will Roll;0;1;0;0;0;0
 Heart Of Stone;0;0;1;0;0;0
 Heartbeat Song;0;0;0;1;0;0
 Heat Waves;0;1;0;0;0;0
@@ -1372,7 +1390,6 @@ I'Ve Got You Under My Skin;0;0;0;1;0;0
 Jack Of Speed;0;0;0;1;0;0
 Jamming;0;0;0;1;0;0
 Jazz Master;0;0;0;1;0;0
-Je Ne Parle Pas Français;1;0;0;0;0;0
 Je Veux;0;0;0;1;0;0
 Jeanny;0;0;0;0;1;0
 Jeans On;1;0;0;0;0;0
@@ -1414,7 +1431,6 @@ Kids;0;0;0;1;0;0
 Kids In America;1;0;0;0;0;0
 Killer Queen;0;0;0;1;0;0
 Killerpapa;0;0;1;0;0;0
-Killing In The Name;0;1;0;0;0;0
 Killing In The Name Of;0;0;0;0;1;0
 Killing Me Softly;0;0;0;0;1;0
 Kim Sun;0;0;0;1;0;0
@@ -1779,7 +1795,6 @@ Play The Game;0;0;0;1;0;0
 Playa;0;0;0;0;1;0
 Playbox;0;0;0;0;1;0
 Poison;0;0;0;0;1;0
-Policeman;0;1;0;0;0;0
 Polite;0;0;0;1;0;0
 Polonese;0;0;0;0;1;0
 Pompeii;0;0;0;1;0;0
@@ -2029,7 +2044,6 @@ Summertime Sadness;0;1;0;0;0;0
 Sunday Bloody Sunday;1;0;0;0;0;0
 Sunrise;0;0;1;0;0;0
 Sunshine Day;0;0;0;0;1;0
-Sunshine Reggae;1;0;0;0;0;0
 Super Duper Love;0;0;0;1;0;0
 Superstition;0;1;0;0;0;0
 Sure Thing;0;0;0;1;0;0
@@ -2040,13 +2054,11 @@ Suzanne;0;0;0;1;0;0
 Suzuki;0;0;0;1;0;0
 Swalla;0;1;0;0;0;0
 Sway;0;0;0;1;0;0
-Sweat;1;0;0;0;0;0
 Sweet About Me;0;0;0;1;0;0
 Sweet Caroline Party;1;0;0;0;0;0
 Sweet Chid O'Mine;0;0;0;0;1;0
 Sweet Harmony;0;0;1;0;0;0
 Sweet Home Alabama;1;0;0;0;0;0
-Sweet Lovin';1;0;0;0;0;0
 Sweet Soul Music;0;0;0;1;0;0
 Sweetest Thing;0;1;0;0;0;0
 Sweets For My Sweet;0;0;0;0;1;0
@@ -2225,7 +2237,6 @@ Urlaub In Italien;0;1;0;0;0;0
 Use Somebody;0;0;0;1;0;0
 Valerie;0;0;0;1;0;0
 Vamos A La Playa;0;0;1;0;0;0
-Vamos A Marte;1;0;0;0;0;0
 Vanille Fraise;0;0;0;1;0;0
 Vedo Nero;0;0;0;0;1;0
 Venus;0;0;0;0;1;0
@@ -2248,7 +2259,6 @@ Walking By Myself;1;0;0;0;0;0
 Want Me - Need Me;0;0;0;1;0;0
 Want To Want Me;0;1;0;0;0;0
 Wasn'T Expecting That;0;1;0;0;0;0
-Wasted Love;0;1;0;0;0;0
 Watermelon Man;0;0;0;1;0;0
 Waterpumpee;0;0;0;1;0;0
 Way Down Yonder In New Orleans Mambo;0;0;0;1;0;0
@@ -2261,7 +2271,6 @@ We Could Be Dancing;0;0;0;0;1;0
 We Found Love;0;0;0;1;0;0
 We Got Love;0;0;0;0;1;0
 Weather With You;0;0;1;0;0;0
-Weekend;1;0;0;0;0;0
 Weg Von Mir;1;0;0;0;0;0
 Wegen Dir (Nachts Wenn Alles Schläft);1;0;0;0;0;0
 Weiss Der Geier;1;0;0;0;0;0
@@ -2317,8 +2326,6 @@ Candyman;0;0;0;0;0;1
 Can'T Get Blue Monday Out Of My Head;0;0;0;0;0;1
 Casanova;0;0;0;0;0;1
 Champagne Showers;0;0;0;0;0;1
-Cheerleader;0;0;0;0;0;1
-Chunky;0;0;0;0;0;1
 Cry For You;0;0;0;0;0;1
 Der Ewige Kreis;0;0;0;0;0;1
 Desce Pro Play;0;0;0;0;0;1
@@ -2367,7 +2374,6 @@ Loin;0;0;0;0;0;1
 Lola Get Down;0;0;0;0;0;1
 Love Don'T Let Me Bad;0;0;0;0;0;1
 Love Is Gone;0;0;0;0;0;1
-Love Me Like You Do;0;0;0;0;0;1
 Lovers On The Sun;0;0;0;0;0;1
 Mallorca (Da Bin Ich Daheim);0;0;0;0;0;1
 Mammoth;0;0;0;0;0;1
@@ -2399,8 +2405,6 @@ Pokemon Theme;0;0;0;0;0;1
 Poker Face;0;0;0;0;0;1
 Police Man;0;0;0;0;0;1
 Polonäse Blankenese;0;0;0;0;0;1
-Pony;0;0;0;0;0;1
-Porcelain;0;0;0;0;0;1
 Protectors Of The Earth;0;0;0;0;0;1
 Rain In Ibiza;0;0;0;0;0;1
 Rain Over Me;0;0;0;0;0;1
@@ -2408,7 +2412,6 @@ Ridin' Solo;0;0;0;0;0;1
 Romeo And Juliet;0;0;0;0;0;1
 Saufi Saufi;0;0;0;0;0;1
 Schüsse In Die Luft;0;0;0;0;0;1
-Self Control;0;0;0;0;0;1
 She Wolf;0;0;0;0;0;1
 Shed A Light;0;0;0;0;0;1
 Shikidim;0;0;0;0;0;1
@@ -2463,7 +2466,6 @@ Why Did You Do It;0;0;0;0;1;0
 Why Don'T You Get A Job?;0;0;0;1;0;0
 Wild Boys;1;0;0;0;0;0
 Wild Horses;0;0;0;1;0;0
-Wildberry Lillet;0;0;0;1;0;0
 Will You Be There;0;0;0;1;0;0
 Willenlos;1;0;0;0;0;0
 Willst Du;0;0;0;1;0;0
@@ -2491,7 +2493,6 @@ Wunderschön;1;0;0;0;0;0
 X;0;1;0;0;0;0
 Ya Salam;0;0;0;0;0;1
 Yakety Sax;0;0;0;1;0;0
-Yallah Goodbye;1;0;0;0;0;0
 Yellow;0;0;0;0;1;0
 Yellow River;0;0;0;0;1;0
 Yellow Submarine;0;0;0;1;0;0
@@ -2539,81 +2540,80 @@ Zillertaler Hochzeitsmarsch;0;0;0;0;1;0
 Zorba The Greek;0;0;0;1;0;0
 Zorbas Dance;0;0;1;0;0;0
 Zucker;0;0;0;1;0;0
-2Cb;0;0;0;0;0;0
-Adore;0;0;0;0;0;0
-Amsterdam;0;0;0;0;0;0
-Astronomia 2K19;0;0;0;0;0;0
-Bad Girls;0;0;0;0;0;0
-Be A Hoe/Break A Hoe;0;0;0;0;0;0
-Bella Vita;0;0;0;0;0;0
-Break Ya Neck;0;0;0;0;0;0
-Chicago Song;0;0;0;0;0;0
-Diamonds;0;0;0;0;0;0
-Dirrty Ft Redman;0;0;0;0;0;0
-Discovery Channel;0;0;0;0;0;0
-Do It Right Now;0;0;0;0;0;0
-Don'T Leave Me This Way;0;0;0;0;0;0
-Explode;0;0;0;0;0;0
-Family Portrait;0;0;0;0;0;0
-Femme Like U;0;0;0;0;0;0
-Follow Your Arrow;0;0;0;0;0;0
-Forrest Gump;0;0;0;0;0;0
-Frag Mich Nicht;0;0;0;0;0;0
-Geh Nicht Weg;0;0;0;0;0;0
-Genius Of Love;0;0;0;0;0;0
-Get It On ... Tonite;0;0;0;0;0;0
-Go West;0;0;0;0;0;0
-Half-Saved;0;0;0;0;0;0
-Hallihallo;0;0;0;0;0;0
-Heavy Cross;0;0;0;0;0;0
-Hey You;0;0;0;0;0;0
-House Party;0;0;0;0;0;0
-I Tak Kocham Cię;0;0;0;0;0;0
-Ich Darf Das;0;0;0;0;0;0
-I'Ll Make Love To You;0;0;0;0;0;0
-I'M Good (Blue);0;0;0;0;0;0
-I'M In Love;0;0;0;0;0;0
-I'M In The Mood For Dancing;0;0;0;0;0;0
-In Lifetimes;0;0;0;0;0;0
-King Of My Castle;0;0;0;0;0;0
-Leave A Light On;0;0;0;0;0;0
-Les Lacs Du Connemara;0;0;0;0;0;0
-Let It Flow;0;0;0;0;0;0
-Let Me Blow Ya Mind;0;0;0;0;0;0
-Let'S Get It Started;0;0;0;0;0;0
-Lips Are Movin';0;0;0;0;0;0
-Love Me Like You;0;0;0;0;0;0
-Madonna;0;0;0;0;0;0
-Move Your Ass!;0;0;0;0;0;0
-My Heart Goes Boom;0;0;0;0;0;0
-Norderney;0;0;0;0;0;0
-One;0;0;0;0;0;0
-Outlines;0;0;0;0;0;0
-Party Mix Iii;0;0;0;0;0;0
-Prayer In C;0;0;0;0;0;0
-Ride It;0;0;0;0;0;0
-Riders On The Storm;0;0;0;0;0;0
-Ring My Bell;0;0;0;0;0;0
-Rotation;0;0;0;0;0;0
-S&M;0;0;0;0;0;0
-Skibidi;0;0;0;0;0;0
-Sommersprossen;0;0;0;0;0;0
-Sounds Like A Melody;0;0;0;0;0;0
-Sunlight;0;0;0;0;0;0
-Supergirl;0;0;0;0;0;0
-Sweet Nothing;0;0;0;0;0;0
-Take It Easy;0;0;0;0;0;0
-Take You Dancing;0;0;0;0;0;0
-Tanz Der Moleküle;0;0;0;0;0;0
-The Bomb;0;0;0;0;0;0
-The Spirit Of The Hawk;0;0;0;0;0;0
-"Theme From ""King Kong""";0;0;0;0;0;0
-Thriller;0;0;0;0;0;0
-Tieduprightnow;0;0;0;0;0;0
-To Be With You;0;0;0;0;0;0
-Trouble;0;0;0;0;0;0
-Wanna Be;0;0;0;0;0;0
-Wherever You Will Go;0;0;0;0;0;0
-Wombass;0;0;0;0;0;0
-Y.M.C.A.;0;0;0;0;0;0
-Years;0;0;0;0;0;0
+2Cb;0;0;0;0;0;1
+Adore;0;0;0;0;0;1
+Amsterdam;1;0;0;0;0;0
+Astronomia 2K19;0;0;0;0;0;1
+Bad Girls;0;0;0;1;0;0
+Be A Hoe/Break A Hoe;0;0;0;0;0;1
+Bella Vita;0;0;0;0;0;1
+Break Ya Neck;0;0;0;1;0;0
+Chicago Song;0;0;0;1;0;0
+Diamonds;0;0;0;1;0;0
+Dirrty Ft Redman;1;0;0;0;0;0
+Discovery Channel;0;0;0;0;0;1
+Do It Right Now;0;0;0;1;0;0
+Don'T Leave Me This Way;0;0;0;1;0;0
+Explode;0;0;0;0;0;1
+Family Portrait;0;0;0;1;0;0
+Femme Like U;0;0;0;1;0;0
+Follow Your Arrow;0;0;0;1;0;0
+Forrest Gump;0;0;0;1;0;0
+Frag Mich Nicht;0;0;0;0;0;1
+Geh Nicht Weg;0;0;0;0;0;1
+Genius Of Love;0;0;0;1;0;0
+Get It On ... Tonite;0;0;0;1;0;0
+Go West;0;0;0;1;0;0
+Half-Saved;0;0;0;1;0;0
+Hallihallo;0;0;0;0;0;1
+Heavy Cross;0;0;0;1;0;0
+Hey You;0;0;0;1;0;0
+House Party;0;0;0;0;0;1
+I Tak Kocham Cię;0;0;0;1;0;0
+Ich Darf Das;0;0;0;0;0;1
+I'Ll Make Love To You;0;0;0;1;0;0
+I'M Good (Blue);0;0;0;0;0;1
+I'M In Love;0;0;0;1;0;0
+I'M In The Mood For Dancing;0;0;0;1;0;0
+In Lifetimes;0;0;0;0;0;1
+King Of My Castle;0;0;0;0;0;1
+Leave A Light On;0;0;0;1;0;0
+Les Lacs Du Connemara;0;0;0;1;0;0
+Let It Flow;0;0;0;1;0;0
+Let Me Blow Ya Mind;0;0;0;1;0;0
+Let'S Get It Started;0;0;0;0;0;1
+Lips Are Movin';0;0;0;1;0;0
+Love Me Like You;0;0;0;0;0;1
+Madonna;0;0;0;0;0;1
+Move Your Ass!;0;0;0;0;0;1
+My Heart Goes Boom;0;0;0;0;0;1
+Norderney;0;0;0;0;0;1
+One;0;0;0;0;0;1
+Outlines;0;0;0;0;0;1
+Prayer In C;0;0;0;0;0;1
+Riders On The Storm;0;0;0;0;0;1
+Ring My Bell;0;0;0;1;0;0
+Rotation;0;0;0;1;0;0
+Skibidi;0;0;0;1;0;0
+Sommersprossen;0;0;0;0;0;1
+Sounds Like A Melody;0;0;0;0;0;1
+Sunlight;0;0;0;0;0;1
+Supergirl;0;0;0;0;0;1
+Sweet Nothing;0;0;0;0;0;1
+Take It Easy;0;0;0;0;0;1
+Take You Dancing;0;0;0;1;0;0
+Tanz Der Moleküle;0;0;0;1;0;0
+The Bomb;0;0;0;1;0;0
+The Spirit Of The Hawk;0;0;0;0;0;1
+"Theme From ""King Kong""";0;0;0;1;0;0
+Thriller;0;0;0;1;0;0
+Tieduprightnow;0;0;0;1;0;0
+To Be With You;0;0;0;1;0;0
+Trouble;0;0;0;0;0;1
+Wanna Be;0;0;0;0;0;1
+Wherever You Will Go;0;0;0;1;0;0
+Wombass;0;0;0;0;0;1
+Y.M.C.A.;0;0;0;1;0;0
+Years;0;0;0;0;0;1
+Party Mix III;0;0;0;0;0;0
+S&M;1;0;0;0;0;0
